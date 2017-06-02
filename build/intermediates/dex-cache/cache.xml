@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\trung\AndroidStudioProjects\RSSReaderNDK\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\trung\AndroidStudioProjects\RSSReaderNDK\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_69d07cb672ccb6a3ed46b735f9176f6bcbbc4787\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\trung\AndroidStudioProjects\RSSReaderNDK\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bf138a632c329f084c29b736c781af964dc4bbc">
+        <dex dex="C:\Users\trung\AndroidStudioProjects\RSSReaderNDK\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4d5e161d74151e78fa6dcb2afd1c8147f5854d9e\classes.dex" />
+    </item>
+
+</items>
